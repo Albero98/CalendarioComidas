@@ -1,0 +1,13 @@
+
+.bigCalendar-container{
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+
+.rbc-month-header {
+    min-height: 40px;
+}
+
+.rbc-month-row {
+    min-height: 90px;
+}

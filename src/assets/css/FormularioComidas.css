@@ -1,0 +1,26 @@
+.formContent{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 8% 15%;
+}
+.formContent__body{
+    min-height: 350px;
+    padding: 2% 8%;
+}
+
+.formContent__encabezado{
+    background-color: rgb(97, 97, 97);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding:2%;
+    border-bottom: 1px solid black;
+}
+
+.formContent__fechaActual{
+    color: white;
+}
+
+.formContent__input{
+    margin-top: 4%;
+    margin-bottom: 10%;
+}

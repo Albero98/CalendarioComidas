@@ -1,0 +1,12 @@
+.navbar{
+    border-bottom: 1px solid black;
+    margin-bottom: 2%;
+}
+
+.navbar__logo{
+    width: 4%;
+}
+
+.navbar__img{
+    width: 100%;
+}

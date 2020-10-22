@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+section{
+  margin:90px;
+}
+
+.section--flex{
+  margin:80px;
+  display:flex;
+  flex-wrap: wrap ;
+}
+
+.titulo{
+  font-family: 'Poppins', sans-serif;
+}
